@@ -1,0 +1,36 @@
+[submodule "Flowords"]
+	path = Flowords
+	url = https://github.com/givanse/Flowords
+[submodule "Android-Live-Wallpaper-Template"]
+	path = Android-Live-Wallpaper-Template
+	url = https://github.com/chiralcode/Android-Live-Wallpaper-Template
+[submodule "abstract-art"]
+	path = abstract-art
+	url = https://github.com/gwhiteside/abstract-art
+[submodule "android-clock-livewallpaper"]
+	path = android-clock-livewallpaper
+	url = https://github.com/ssaurel/android-clock-livewallpaper
+[submodule "bubblechamber"]
+	path = bubblechamber
+	url = https://github.com/orac/bubblechamber
+[submodule "SeismoWallpaper"]
+	path = SeismoWallpaper
+	url = https://github.com/jacekmusial/SeismoWallpaper
+[submodule "FruityLiveWallpaper"]
+	path = FruityLiveWallpaper
+	url = https://github.com/emmaguy/FruityLiveWallpaper
+[submodule "spontaneous-combustion"]
+	path = spontaneous-combustion
+	url = https://github.com/matthewmichihara/spontaneous-combustion
+[submodule "vertex-wallpaper"]
+	path = vertex-wallpaper
+	url = https://github.com/MorpheusLee/vertex-wallpaper
+[submodule "Flare-Live-Wallpaper"]
+	path = Flare-Live-Wallpaper
+	url = https://github.com/PuZZleDucK/Flare-Live-Wallpaper
+[submodule "lanterns-live-wallpaper"]
+	path = lanterns-live-wallpaper
+	url = https://github.com/matthewmichihara/lanterns-live-wallpaper
+[submodule "Live-Wallpaper"]
+	path = Live-Wallpaper
+	url = https://github.com/givanse/Live-Wallpaper

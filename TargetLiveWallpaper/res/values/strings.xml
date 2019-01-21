@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2009 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+--> 
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <string name="target_wallpaper_service_label">Target Live Wallpapers</string><string name="target_settings">Settings</string><string name="wallpapers">com.puzzleduck.TargetLiveActivity</string><string name="target_settings_pulse_category_title">A pulsing target moving towards your finger</string><string name="target_settings_pulse_title">Display pulse target?</string><string name="target_settings_pulse_on_summary">Display pulse target.</string><string name="target_settings_pulse_off_summary">Don\'t display pulse target.</string><string name="target_settings_pulse_number_title">Number of rings...</string><string name="target_settings_pulse_number_summary">Number of rings to display during pulse</string><string name="target_settings_pulse_width_title">Width of pulse rings...</string><string name="target_settings_pulse_width_summary">How wide should space between pulse rings be</string><string name="target_settings_static_category_title">A basic static image</string><string name="target_settings_mouse_title">Display static target?</string><string name="target_settings_mouse_summary">Select whether to display a static target</string><string name="cursor_settings_title">Select target...</string><string name="cursor_settings_summary">Select from various target images.</string><string name="target_settings_3d_title">Settings for left, top &amp; quad 3D trackers</string><string name="target_settings_quad_title">Display Quad trackers?</string><string name="target_settings_quad_on_summary">Display spinning targets in all directions.</string><string name="target_settings_quad_off_summary">Don\'t display spinning targets.</string><string name="target_settings_left_title">Track along LHS?</string><string name="target_settings_left_on_summary">Track along left hand side of screen.</string><string name="target_settings_left_off_summary">Don\'t track left hand side of screen.</string><string name="target_settings_top_title">Track along top?</string><string name="target_settings_top_on_summary">Track along top of screen.</string><string name="target_settings_top_off_summary">Don\'t track along top of screen.</string><string name="target_settings_dpulse_title">Shift 3d tracker colors?</string><string name="target_settings_dpulse_on_summary">Pulse tracker objects - red</string><string name="target_settings_dpulse_off_summary">Don\'t pulse tracker objects - green</string><string name="target_settings_title">Select 3D shape...</string><string name="target_settings_summary">Choose whitch 3D model to display ...</string><string name="target_settings_animated_title">Animated Target settings</string><string name="target_settings_disc_title">Display rotating discs?</string><string name="target_settings_disc_on_summary">Display rotating discs.</string><string name="target_settings_disc_off_summary">Don\'t display rotating discs.</string><string name="target_settings_disctype_title">Color of rotating discs...</string><string name="target_settings_disctype_summary">Select a color for the animated targets</string><skip /><string name="target_settings_pulse_summary">!!!Select whether to display pulse target</string>
+    <!-- Application name -->
+    
+
+    <!-- Wallpaper showing a cube -->
+
+    <!-- Wallpaper showing a cube or dodecahedron, data read from resource -->
+
+    <!-- Wallpaper showing a cube, renderscript version -->
+
+    
+    
+    
+    <string name="target_settings_pulse_category_summary">!!!Pulse config, number, width, etc</string>
+    <string name="target_settings_left_summary">!!!Select whether to track vertical with 3D graphics</string><string name="target_settings_top_summary">!!!Select whether to track horizontal with 3D graphics</string><string name="target_settings_disc_summary">!!!Select whether to display rotating discs</string><string name="target_settings_quad_summary">!!!Select whether to display quad spinning objects</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="target_settings_static_category_summary">!!!Settings for static target display</string>
+    
+    <string name="target_settings_3d_summary">!!!Display settings for 3D objects</string>
+    
+    <string name="target_settings_animated_summary">!!!Settings for animated targets</string>
+    
+    
+    
+    <string name="target_settings_dpulse_summary">!!!Shuould I pulsate colors</string>
+    <string name="target_settings_flare_title">Flare settings</string>
+    <string name="target_settings_flare_summary">add after flare to touch</string>
+    <string name="target_settings_flare_on_summary">Flares on</string>
+    <string name="target_settings_flare_off_summary">Flares off</string>
+    <string name="searchText">&quot;Lets see what a search for \&quot;Target Live Wallpaper\&quot; shows up:&quot;</string>
+    <string name="target_wallpaper_application_label">App Label - TLP</string>
+    <string name="target_wallpaper_activity_label">Activity - TLP</string>
+    <string name="activity_other_apps">Other Apps byt PDi</string>
+    <string name="activity_button_defaults">Restore Default Settings</string>
+    <string name="activity_button_choose">Select live wallpapers</string>
+    <string name="custom_setting_preset_header">Presets</string>
+    
+    
+</resources>
