@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Seismo Wallpaper settings">
+    <CheckBoxPreference
+        android:key="filter"
+        android:title="Filtering"
+        android:summary="Turn filtering on or off" />
+    <ListPreference
+        android:key="axis"
+        android:title="Axis"
+        android:summary="Set axis of measurement"
+        android:entries="@array/axis"
+        android:entryValues="@array/axis_values" />
+    <com.ariwilson.seismowallpaper.ColorPickerPreference
+        android:key="line_color"
+        android:title="Line color"
+        android:summary="Set the line color" />
+    <com.ariwilson.seismowallpaper.ColorPickerPreference
+        android:key="background_color"
+        android:title="Background color"
+        android:summary="Set the background color" />
+</PreferenceScreen>

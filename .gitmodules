@@ -13,9 +13,6 @@
 [submodule "bubblechamber"]
 	path = bubblechamber
 	url = https://github.com/orac/bubblechamber
-[submodule "SeismoWallpaper"]
-	path = SeismoWallpaper
-	url = https://github.com/jacekmusial/SeismoWallpaper
 [submodule "FruityLiveWallpaper"]
 	path = FruityLiveWallpaper
 	url = https://github.com/emmaguy/FruityLiveWallpaper
