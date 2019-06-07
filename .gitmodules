@@ -31,3 +31,6 @@
 [submodule "Live-Wallpaper"]
 	path = Live-Wallpaper
 	url = https://github.com/givanse/Live-Wallpaper
+[submodule "BasicGLWallpaper"]
+	path = BasicGLWallpaper
+	url = https://github.com/jayschwa/BasicGLWallpaper
